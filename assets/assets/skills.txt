@@ -1,0 +1,4 @@
+Languages: Python, Dart
+Frameworks: Flutter, FastAPI
+Tools: Git, Firebase, Docker
+Cloud: GCP, Firebase

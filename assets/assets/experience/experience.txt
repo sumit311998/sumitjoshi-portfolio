@@ -1,0 +1,6 @@
+SAP HANA Basis Consultant at IBM Consulting
+January 2022 – Present
+
+• Coordinated HANA landscape management and automation.
+• Improved uptime with proactive monitoring and alerting.
+• Delivered cross-geography system support and patching.
